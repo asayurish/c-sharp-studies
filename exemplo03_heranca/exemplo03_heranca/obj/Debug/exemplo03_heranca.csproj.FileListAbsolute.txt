@@ -1,0 +1,9 @@
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\bin\Debug\exemplo03_heranca.exe.config
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\bin\Debug\exemplo03_heranca.exe
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\bin\Debug\exemplo03_heranca.pdb
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.csprojResolveAssemblyReference.cache
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.Form1.resources
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.Properties.Resources.resources
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.csproj.GenerateResource.Cache
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.exe
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\exemplo03_heranca\exemplo03_heranca\obj\Debug\exemplo03_heranca.pdb
