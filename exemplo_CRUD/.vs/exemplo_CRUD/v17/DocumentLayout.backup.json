@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|c:\\users\\rtrigo\\desktop\\exemplo_crud\\exemplo_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|solutionrelative:exemplo_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|c:\\users\\rtrigo\\desktop\\exemplo_crud\\exemplo_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|solutionrelative:exemplo_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|c:\\users\\rtrigo\\desktop\\exemplo_crud\\exemplo_crud\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12A5E8A-BD8F-45F7-B797-9882AD02E218}|exemplo_CRUD\\exemplo_CRUD.csproj|solutionrelative:exemplo_crud\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_CRUD\\Form1.cs",
+              "ToolTip": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\Form1.cs [Design]*",
+              "RelativeToolTip": "exemplo_CRUD\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:38:16.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\conexao.cs",
+              "RelativeDocumentMoniker": "exemplo_CRUD\\conexao.cs",
+              "ToolTip": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\conexao.cs",
+              "RelativeToolTip": "exemplo_CRUD\\conexao.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:06:19.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7b23c5c8-e335-46f1-bd29-8eb16121aa28",
+        "Display": 0,
+        "X": 20,
+        "Y": 90,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_CRUD\\Form1.cs",
+              "ToolTip": "C:\\Users\\rtrigo\\Desktop\\exemplo_CRUD\\exemplo_CRUD\\Form1.cs*",
+              "RelativeToolTip": "exemplo_CRUD\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:38:51.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
