@@ -1,0 +1,9 @@
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csprojResolveAssemblyReference.cache
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Form1.resources
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.Cache
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\ds-mtec-2\Documents\Visual Studio 2015\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
